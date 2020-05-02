@@ -1,0 +1,39 @@
+.body-main{
+    background-color: rgb(52, 6, 112);
+    width: 380px;
+    height: 500px;
+    margin-left: 400px;
+}
+.screen{
+    width: 300px;
+    height: 50px;
+    font-size: 30px;
+
+}
+.sc-div{
+    margin: 40px;
+    padding-top: 40px;
+}
+.btn{
+    width: 70px;
+    height: 50px;
+}
+.btn-div{
+    margin-left: 45px;
+}
+.clear{
+    width: 292px;
+    height:50px ;
+    font-size: 50px;
+    
+}
+.clear-1{
+    background-color: slateblue;
+    margin-top: 30px;
+    width: 292px;
+    height:50px ;
+    font-size: 30px;
+    font-style: italic;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+}
